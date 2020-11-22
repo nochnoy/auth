@@ -1,6 +1,6 @@
 package auth
 
-// Авторизация
+// Auth СЃСЂР°РЅР°СЏ С„СѓРЅРєС†РёСЏ
 func Auth(login string, password string) bool {
 	return (login == "roma" && password == "horoshiy")
 }
